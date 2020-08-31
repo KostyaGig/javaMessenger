@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881845427700",
+    "firebase_url": "https://javamessenger-150c0.firebaseio.com",
+    "project_id": "javamessenger-150c0",
+    "storage_bucket": "javamessenger-150c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881845427700:android:fc4c58a17cb6a089de6da1",
+        "android_client_info": {
+          "package_name": "com.kostya_zinoviev.javamessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881845427700-gl9ogd07bvthi3qbmg3l9fm2qiftjvo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kostya_zinoviev.javamessenger",
+            "certificate_hash": "66d8a1bf71642c2b94875d5602a7d5f65b1d70b7"
+          }
+        },
+        {
+          "client_id": "881845427700-iph5u9s8qtkh7rsfhvlah5gecouqn3t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmuvMwRMes9mqgYhKHz8gm3T7YSkaIWcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881845427700-iph5u9s8qtkh7rsfhvlah5gecouqn3t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
